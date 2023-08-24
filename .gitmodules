@@ -1,0 +1,3 @@
+[submodule "Software-Development-Go"]
+	path = Software-Development-Go
+	url = https://github.com/Apress/Software-Development-Go.git
