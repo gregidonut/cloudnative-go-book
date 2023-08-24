@@ -4,3 +4,6 @@
 [submodule "ch1/statx"]
 	path = ch1/statx
 	url = https://github.com/tklauser/statx.git
+[submodule "ch2/GoPlay"]
+	path = ch2/GoPlay
+	url = https://github.com/n4ss/GoPlay.git
